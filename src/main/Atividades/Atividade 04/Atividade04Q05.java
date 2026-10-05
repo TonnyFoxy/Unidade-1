@@ -1,3 +1,4 @@
+package Atividades;
 import java.util.Scanner;
 public class Atividade04Q05 {
     public static void main(String [] args) {

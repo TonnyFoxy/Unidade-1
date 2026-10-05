@@ -1,3 +1,4 @@
+package Atividades;
 import javax.swing.JOptionPane;
 public class Atividade01Q7 {
     public static void main(String[] args) {

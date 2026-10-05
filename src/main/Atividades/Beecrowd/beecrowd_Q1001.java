@@ -1,3 +1,4 @@
+package Atividades.Beecrowd;
 import java.util.Scanner;
 public class beecrowd_Q1001{
 
